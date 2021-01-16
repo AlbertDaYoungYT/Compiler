@@ -1,8 +1,0 @@
-COMMANDS:
-motion              Detects motion
-get computer info   Gets all info about the computer
-controller          Gets raw info from a PS4 controller
-7zip                7zip extracter and compiler
-contact             Contacts is a contact book
-games               Initiates to games
-ytdown              Downloads a Youtube video from URL
